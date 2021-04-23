@@ -30,7 +30,6 @@ This project is for to calculate and handle monthly expenses of individual famil
 6.Thymleaf 
 7.SpringBoot
 
-heloooo
 
 ### What I'll Have to Learn
 I still don't know how to incorporate and use thymleaf templates.
